@@ -1,1 +1,1 @@
-# COVID19-World-Vaccination-Progress
+# COVID-19 World Vaccination Progress
