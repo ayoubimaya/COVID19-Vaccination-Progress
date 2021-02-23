@@ -2,7 +2,7 @@
 
 <!-- <img src="https://www.gannett-cdn.com/presto/2020/03/07/USAT/97bc2b03-be50-4814-9389-9b5e52e3045b-promo-art.png?crop=5658,3183,x794,y621&width=1200"> -->
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/PND8kpp/vaccine-image.png" alt="vaccine-image" border="0"></a>
+<img src="https://i.ibb.co/PND8kpp/vaccine-image.png">
 
 # Before working with the Jupyter Notebook
 
