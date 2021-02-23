@@ -10,4 +10,4 @@
 
 - Before working with this notebook, please ```pip install -r requirements.txt```
 
-- To make sure all datasets are read in, you will need a [Kaggle](https://www.kaggle.com) account. Go to ```https://kaggle.com/YOUR_USERNAME/account``` and download an JSON file containing your API token. The notebook will prompt you to enter your Kaggle username and API token.
+- You will need a [Kaggle](https://www.kaggle.com) account to read in datasets. Go to ```https://kaggle.com/YOUR_USERNAME/account``` and download an JSON file containing your API token. The notebook will prompt you to enter your Kaggle username and API token.
