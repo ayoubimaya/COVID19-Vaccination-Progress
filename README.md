@@ -1,4 +1,3 @@
 # <center>COVID-19 Vaccination Progress</center>
 
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Covid19_vaccine_biontech_pfizer_2.jpg/640px-Covid19_vaccine_biontech_pfizer_2.jpg"></center>
-
+<img src="https://www.gannett-cdn.com/presto/2020/03/07/USAT/97bc2b03-be50-4814-9389-9b5e52e3045b-promo-art.png?crop=5658,3183,x794,y621&width=1200">
