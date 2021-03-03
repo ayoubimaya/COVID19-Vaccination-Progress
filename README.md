@@ -8,7 +8,7 @@
 
 - This notebook has been tested on ```Python 3.6.8``` with ```Ubuntu 18.04 LTS```
 
-- Before working with this notebook, please ```pip install -r requirements.txt```
+- Before working with this notebook, please ```pip3 install -r requirements.txt```
 
 - You will need a [Kaggle](https://www.kaggle.com) account to read in datasets. Go to ```https://kaggle.com/YOUR_USERNAME/account``` and download the JSON file containing your API token. The notebook will prompt you to enter your Kaggle username and API token.
 
