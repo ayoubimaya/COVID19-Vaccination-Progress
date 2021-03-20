@@ -15,4 +15,4 @@
 - Be sure to comment out lines 26, 31, 36, 45, 47, and 53 to avoid errors. These lines of code are used only for the purpose of creating HTML files of the Plotly figures into this repository.
 
 
-Check out my [talk](https://bit.ly/vizvaxvid) on Visualizing the Vaccine!
+If you like this repo, then check out my [talk](https://bit.ly/vizvaxvid) *Visualizing the Vaccine!*
