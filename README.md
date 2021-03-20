@@ -13,3 +13,6 @@
 - You will need a [Kaggle](https://www.kaggle.com) account to read in datasets. Go to ```https://kaggle.com/YOUR_USERNAME/account``` and download the JSON file containing your API token. The notebook will prompt you to enter your Kaggle username and API token.
 
 - Be sure to comment out lines 26, 31, 36, 45, 47, and 53 to avoid errors. These lines of code are used only for the purpose of creating HTML files of the Plotly figures into this repository.
+
+
+Check out my [talk](https://bit.ly/vizvaxvid) on Visualizing the Vaccine!
